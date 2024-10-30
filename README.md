@@ -23,7 +23,7 @@ __Express.js__ for creating REST API, __MongoDB__ for database where user can bo
 
 ![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/eDoc-Doctor-s-Appointment-App/blob/main/assets/Apply%20for%20Doctor's%20Page.png)
 
-### Update Profile Pgae
+### Update Profile Page
 
 ![Screenshot (53)](https://github.com/Piyush-Kr-Sharma/eDoc-Doctor-s-Appointment-App/blob/main/assets/Update%20Profile%20Page.png)
 
@@ -32,9 +32,9 @@ __Express.js__ for creating REST API, __MongoDB__ for database where user can bo
 
 | Feature  |  Coded?       | Description  |
 |----------|:-------------:|:-------------|
-| Book an Appointment | &#10004; | Ability of Bok an appointment with Doctor's listed |
-| Get the list of Appointments | &#10004; | Ability to get all the list of future appointments |
-| Notification of Appointment | &#10004; | Ability to get the notification of appointment |
+| Book an Appointment | &#10004; | Ability to Book an appointment with Doctor's listed on Page |
+| Get the list of Appointments | &#10004; | Ability to get all the list of scheduled appointments |
+| Notification of Appointment | &#10004; | Ability to get the notification of appointments |
 | Apply for Doctor | &#10004; | Ability to apply for Doctor |
 | Making a Doctor | &#10004; | Ability of the Admin to make a doctor to the applied candidate |
 | Update the Profile | &#10004; | Ability to update the Profile Page |
